@@ -62,3 +62,4 @@ print('Score', pipeline.score(X_test, Y_test))
 
 from sklearn.metrics import accuracy_score
 accuracy_score(Y_pred,Y_test)
+
